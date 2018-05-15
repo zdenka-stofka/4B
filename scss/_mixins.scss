@@ -1,8 +1,13 @@
 @mixin body-font() {
-  font-family: 'Lato';
+  font-family: 'Open Sans', sans-serif;
 }
 
 @mixin heading-font() {
   font-weight: 700;
+  font-family: 'Annie Use Your Telescope', cursive;
+}
+
+@mixin heading-navbar-font() {
+  font-weight: 400;
   font-family: 'Montserrat';
 }
