@@ -255,6 +255,10 @@ header.masthead h2 {
   font-size: 2rem;
 }
 
+.portfolio-modal .portfolio-modal-dialog p {
+  font-size: 1.3rem;
+}
+
 @media (min-width: 768px) {
   .portfolio-modal .portfolio-modal-dialog {
     min-height: 100vh;
